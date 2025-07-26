@@ -1,0 +1,9 @@
+--------- Error metrics ----------
+hybrid is more efficient
+Baseline MAE: 7.7917
+Baseline RMSE: 9.0298
+Baseline Rewards Average: -11393.8189
+Hybrid MAE: 7.6269
+Hybrid RMSE: 8.9149
+Hybrid Rewards Average: -11201.1821
+----------------------
